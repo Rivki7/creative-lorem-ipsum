@@ -1,6 +1,7 @@
 # React Creative Lorem Ipsum Generator
 
-Check out the live demo [here](your-demo-link).
+Check out the live demo [here](https://crative-lorem-ipsum.netlify.app/).
+
 This project is a Lorem Ipsum text generator built using React and Vite. It was created as part of a React course on Udemy.
 ![Alt text](image.png)
 
